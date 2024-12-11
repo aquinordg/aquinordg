@@ -33,7 +33,7 @@
       <a href="https://www.linkedin.com/in/douglas-de-aquino-68000364/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href="https://scholar.google.com/citations?user=r5WsvKgAAAAJ&hl" target="_blank"><img src="https://img.shields.io/badge/-Google%20Scholar-%233D8BDB?style=for-the-badge&logo=google-scholar&logoColor=white" target="_blank"></a>
       <a href="https://orcid.org/0000-0002-8486-8354" target="_blank"><img src="https://img.shields.io/badge/-ORCID-%2305B539?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a>
-      <a href="http://lattes.cnpq.br/2373005809061037" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%236F6F6F?style=for-the-badge&logo=appveyor&logoColor=white" target="_blank"></a>
+      <a href="http://lattes.cnpq.br/2373005809061037" target="_blank"><img src="https://img.shields.io/badge/-Lattes-%236F6F6F?style=for-the-badge&logo=lattes&logoColor=white" target="_blank"></a>
 </div>
 
 
