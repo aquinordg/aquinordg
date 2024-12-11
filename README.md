@@ -21,13 +21,13 @@
   <img align="center" alt="Aquinordg-Pytorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
 </div>
 
-## 👨‍💻 Recent Projects
+## 👨‍💻 Recent projects
 
 - [**HSLEDge**](https://github.com/aquinordg/hsledge) - A Python library for clustering validation using semantic-based approach
 - [**rdga_4k**](https://github.com/aquinordg/rdga_4k) - Random Data Generator for clustering algorithm testing
 - [**UAV-Data**](https://github.com/aquinordg/UAV-Data) - Data acquisition system for UAV-based projects
    
-## 🔗 Connect with Me
+## 🔗 Let's connect
 <div>
       <a href = "mailto:aquinordga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/douglas-de-aquino-68000364/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
