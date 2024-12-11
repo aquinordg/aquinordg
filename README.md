@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Douglas ([AQUINO, R. D. G.](https://github.com/aquinordg)) 
+## 👋 Hi there, I'm Douglas ([AQUINO, R. D. G.](https://scholar.google.com/citations?user=r5WsvKgAAAAJ&hl)) 
 
 - 🔬 Researcher in **Data Science** and **AI**;
 - 🎓 PhD in **Operations Research** with focus on **Data Science** from UNIFESP and ITA, Sao Paulo, Brazil;
